@@ -1,0 +1,19 @@
+{
+  "name": "js-mazes",
+  "version": "1.0.0",
+  "description": "A JavaScript implementation of several maze algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew8088/js-mazes"
+  },
+  "author": "Andrew Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew8088/js-mazes/issues"
+  },
+  "homepage": "https://github.com/andrew8088/js-mazes"
+}
